@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "../repo/bbw-platform"
+    }
+  ],
+  "settings": {},
+  "extensions": {
+    "recommendations": ["esbenp.prettier-vscode", "yzhang.markdown-all-in-one","Prisma.prisma"]
+  }
+}

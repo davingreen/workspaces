@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "path": "../repo/casi-platform.modules"
+    },
+    {
+      "path": "../repo/casi-platform.modules.wiki"
+    }
+  ],
+  "settings": {
+    "todo-tree.general.tags": ["#task/scope", "#task/debt"],
+    "todo-tree.tree.buttons.groupBySubTag": true,
+    "todo-tree.tree.hideIconsWhenGroupedByTag": true,
+    "todo-tree.tree.labelFormat": "${after}",
+    "rest-client.defaultHeaders": {
+      "Authorization": "Bearer asopifjg-8awufh4fao9h4w8fepaioshfp893h0n"
+    },
+    "rest-client.enableCustomVariableReferencesCodeLens": false,
+    "rest-client.environmentVariables": {
+      "$shared": {},
+      "local": {
+        "API": "localhost:3000"
+      },
+      "dev-davin": {
+        "API": "3.233.174.206:3000"
+      },
+      "qa": {
+        "API": "54.87.5.24:3000"
+      },
+      "client.wcc": {
+        "API": "50.17.82.218:3000"
+      },
+      "prod": {
+        "API": "api.casi.ai:443"
+      }
+    },
+    "rest-client.formParamEncodingStrategy": "always",
+    "workbench.editor.enablePreview": false
+  }
+}

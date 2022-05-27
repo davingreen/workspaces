@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "../repo/gcn-org"
+    },
+    {
+      "path": "../../wp-local-docker-sites/gcn-org-test"
+    },
+    {
+      "path": "../repo/damasa-wp-config"
+    }
+  ],
+  "settings": {}
+}
